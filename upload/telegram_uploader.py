@@ -4,8 +4,8 @@ import argparse
 import requests
 from os import path
 
-token = "TOKEN"
-tg_id = "CHAT_ID"
+token = "6370653561:AAGfKlwAL64ER_091WAvdZkrAxopWXs36ak"
+tg_id = "905603695"
 
 # Initialize parser
 parser = argparse.ArgumentParser()
